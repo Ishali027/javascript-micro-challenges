@@ -19,6 +19,7 @@ should log
 5
 ```
 
+
 ### Example 2
 
 ```js
@@ -32,3 +33,4 @@ should log
 ```
 9
 ```
+
