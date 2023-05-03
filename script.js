@@ -33,3 +33,6 @@ function addFirstAndLast( array){
 result = addFirstAndLast(numbers);
 console.log(result);
 // done 120-arrays
+
+// started the homework late and was unable to figure out the stretch problems in a
+// reasonable amount of time. Will try again if I need to resubmit
